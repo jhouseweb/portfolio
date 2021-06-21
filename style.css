@@ -52,7 +52,7 @@ h3{font-weight:300;font-size: 35px;line-height:38px;margin-bottom:40px;}
 .prof-links{margin: 250px 0 50px 0;}
 
 
-.portfolio ul li{position: relative; width:300px}
+.portfolio ul li{position: relative; width:300px; background: #9595a0}
 .portfolio ul li .overlay{display: none;position: absolute;top: 0; right: 0; left: 0; bottom: 0; background:rgba(0,0,0,0.0); margin: 7px;}
 .portfolio ul li:hover .overlay{display: block;}
 .portfolio ul li .overlay span{position: absolute;width: 100%;text-align: center;top: 50%;}
